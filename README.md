@@ -2,9 +2,6 @@
 
 ![Sci Fi Lol GIF](https://media.giphy.com/media/9Vvoj75o3ZsK6TRUqH/giphy.gif)
 ![Sci Fi Laughing GIF](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
-![Sci Fi Lol GIF](https://media.giphy.com/media/Zx1ZEctOOvxK5VCwwE/giphy.gif)
-![Sci Fi Lol GIF](https://media.giphy.com/media/PoGpvcdbg4wulrL7nO/giphy.gif)
-![Loop Shrek GIF](https://media.giphy.com/media/MDXomrcGshGso/giphy.gif)
 
 <!--
 **nikvitsm/nikvitsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
